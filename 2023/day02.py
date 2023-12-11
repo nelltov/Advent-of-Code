@@ -25,4 +25,3 @@ if __name__ == "__main__":
         puzzle_data = parse(puzzle_input)
         print(f"solution 1: {part1(puzzle_data)}")
         print(f"solution 2: {part2(puzzle_data)}")
-
